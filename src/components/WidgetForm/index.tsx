@@ -61,7 +61,7 @@ export function WidgetForm() {
         </>
       )}
       <footer className="text-xs text-neutral-400">
-        Feito com ❤ pela{" "}
+        Feito com 💜 pela{" "}
         <a
           className="underline underline-offset-2"
           href="https://rocketseat.com.br"
